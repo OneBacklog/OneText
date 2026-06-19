@@ -1,6 +1,10 @@
 const textarea = document.getElementsByTagName('textarea')[0]
 textarea.value = window.localStorage.getItem('data')
 
-textarea.addEventListener("blur", function() {
+textarea.addEventListener('blur', function() {
   window.localStorage.setItem('data', this.value)
+})
+
+window.addEventListener('DOMContentLoaded', () => {
+  textarea.focus()
 })
