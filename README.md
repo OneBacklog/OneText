@@ -1,6 +1,6 @@
 # OneText
 
-[![OneText on Chrome Web Store](https://github.com/irfanfadilah/OneText/blob/master/webstore.png)](https://chrome.google.com/webstore/detail/onetext/pgcnnnmfmgkclpoejgddkplpmfhjgjdg)
+[![OneText on Chrome Web Store](https://github.com/OneBacklog/OneText/blob/master/webstore.png)](https://chrome.google.com/webstore/detail/onetext/pgcnnnmfmgkclpoejgddkplpmfhjgjdg)
 
 # Screenshot
 
@@ -8,4 +8,4 @@
 
 # License
 
-See [LICENSE](https://github.com/irfanfadilah/OneText/blob/master/LICENSE) (MIT)
+See [LICENSE](https://github.com/OneBacklog/OneText/blob/master/LICENSE) (MIT)
