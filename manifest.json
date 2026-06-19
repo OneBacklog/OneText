@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "OneText",
-  "version": "2.1",
+  "version": "3.0",
   "description": "Real Note-Taking Extension",
   "author": "hello@irfanfadilah.com",
   "action": {
@@ -9,6 +9,16 @@
   },
   "background": {
     "service_worker": "service-worker.js"
+  },
+  "commands": {
+    "_execute_action": {
+      "suggested_key": {
+        "windows": "Ctrl+Space",
+        "mac": "Command+Space",
+        "chromeos": "Ctrl+Space",
+        "linux": "Ctrl+Space"
+      }
+    }
   },
   "permissions": ["sidePanel"],
   "side_panel": {
